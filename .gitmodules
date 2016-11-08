@@ -1,0 +1,9 @@
+[submodule "DevEnvSys"]
+	path = DevEnvSys
+	url = https://github.com/miswanting/DevEnvSys.git
+[submodule "BlockEngine"]
+	path = BlockEngine
+	url = https://github.com/miswanting/BlockEngine.git
+[submodule "Splatoon2D.wiki"]
+	path = Splatoon2D.wiki
+	url = https://github.com/miswanting/Splatoon2D.wiki.git
